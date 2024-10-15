@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://griberwi.github.io/sitemap.html.gz
+Sitemap: https://griberwi.github.io/app/sitemap.html.gz
+Sitemap: https://griberwi.github.io/assets/sitemap.html.gz
+Sitemap: https://griberwi.github.io/css/sitemap.html.gz
+Sitemap: https://griberwi.github.io/includes/sitemap.html.gz
+Sitemap: https://griberwi.github.io/item/sitemap.html.gz
+Sitemap: https://griberwi.github.io/src/sitemap.html.gz
